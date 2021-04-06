@@ -1,0 +1,2 @@
+# seat-Finder
+This App searches for a seat by looping through all the seats available and then checks if a particular seat is already picked or not. if a particular is already taken, you will be asked to consider taking another seat not yet picked. already picked seats will display an "X" while a seat the use has picked will display a mark. seats are checked through input search button written search for seat.
